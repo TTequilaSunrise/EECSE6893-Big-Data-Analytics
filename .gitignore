@@ -1,0 +1,7 @@
+﻿# Ignore local junk
+.env
+*.key
+__pycache__/
+.venv/
+.tools/
+*.pyc
